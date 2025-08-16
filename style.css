@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 15px;
+    color: #34495e;
+}
+
+.resim {
+    margin: 10px auto; /* Başlığa yaklaştırır */
+    border: 8px solid #ffd700; /* Altın sarısı kenarlık */
+    border-radius: 15px; /* Köşeleri yuvarla */
+    padding: 5px; /* İç boşluk */
+    display: block;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Hafif gölge efekti */
+}
+
+ul, ol {
+    text-align: left;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+p {
+    max-width: 500px;
+    margin: 20px auto;
+    font-size: 16px;
+    line-height: 1.5;
+}

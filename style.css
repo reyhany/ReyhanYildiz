@@ -15,13 +15,13 @@ h2 {
     color: #34495e;
 }
 
-.resim {
-    margin: 10px auto; /* Başlığa yaklaştırır */
-    border: 8px solid #ffd700; /* Altın sarısı kenarlık */
-    border-radius: 15px; /* Köşeleri yuvarla */
-    padding: 5px; /* İç boşluk */
+.picture {
+    margin: 10px auto; /* Brings closer to the title */
+    border: 8px solid #ffd700; /* golden frame */
+    border-radius: 15px; /* Round the corners */
+    padding: 5px; /* Inner space */
     display: block;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Hafif gölge efekti */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* shadow effect */
 }
 
 ul, ol {
